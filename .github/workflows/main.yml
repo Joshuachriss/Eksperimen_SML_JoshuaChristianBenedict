@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'iris_raw/**'
-      - 'preprocessing/automate_iris.py'
+      - 'preprocessing/automate_JoshuaChristianBenedict.py'
   workflow_dispatch:  # Bisa dijalankan manual
 
 jobs:
