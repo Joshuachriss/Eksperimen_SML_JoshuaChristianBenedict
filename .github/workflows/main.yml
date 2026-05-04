@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Preprocessing Script
         run: |
-          python preprocessing/automate_iris.py
+          python preprocessing/JoshuaChristianBenedict.py
 
       - name: Verify Output
         run: |
